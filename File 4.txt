@@ -1,1 +1,2 @@
 File 4 contents
+Added line 2 from code
